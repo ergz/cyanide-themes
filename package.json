@@ -1,0 +1,21 @@
+{
+  "name": "cyanide-themes",
+  "displayName": "cyanide-themes",
+  "description": "sublime text themes ported to vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Twilightcyanide - Contrasted Semi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Twilightcyanide - Contrasted Semi-color-theme.json"
+      }
+    ]
+  }
+}
